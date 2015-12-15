@@ -1,13 +1,8 @@
 /*
 Practice problem
 
-ProbLem Discuss the stack data structure. 
-Implement a stack in C using either a linked list 
-or a dynamic array, and justify your decision. 
-Design the interface to your stack to be complete, 
-consistent, and easy to use.
 
-Matt Lukas
+Use dynamic array or stack?
 
 Dynamic arrays have ability to access any index directly,
 however, this is not needed with stack.
